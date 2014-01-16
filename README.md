@@ -21,8 +21,8 @@ Please submit relevant links as pull requests on this repo.
     <tr>
       <td>SuperText</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>https://github.com/bsansouci/hack-mcgill</td>
+      <td><a href='https://github.com/bsansouci'>@bsansouci</a></td>
     </tr>
     <tr>
       <td>ShowsAlert</td>
