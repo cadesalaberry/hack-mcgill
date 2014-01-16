@@ -32,9 +32,9 @@ Please submit relevant links as pull requests on this repo.
     </tr>
     <tr>
       <td>Popcorn</td>
+      <td>http://shmed-popcorn.jit.su/</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href='https://github.com/mac-adam-chaieb'>@mac-adam-chaieb</a></td>
     </tr>
     <tr>
       <td>EstimateMyMiles</td>
