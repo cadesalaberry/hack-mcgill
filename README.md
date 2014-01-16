@@ -12,4 +12,4 @@ Please submit relevant links as pull requests on this repo.
 - EstimateMyMiles
 - MinervaShadow
 - MathGenius
-- (StackQueue)[stackq.herokuapp.com]
+- [StackQ](stackq.herokuapp.com)
