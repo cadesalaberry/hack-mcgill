@@ -2,6 +2,8 @@
 
 ![logo](http://hackmcgill.com/images/logo.png)
 
+Competition details can be found at http://hackmcgill.com/shopify/.
+
 Please submit relevant links as pull requests on this repo.
 
 ## Submissions
