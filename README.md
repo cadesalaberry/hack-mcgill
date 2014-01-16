@@ -9,7 +9,7 @@ Please submit relevant links as pull requests on this repo.
 - SuperText
 - ShowsAlert
 - Popcorn
-- EstimateMyMiles
+- [EstimateMyMiles](http://estimatemymiles.com)
 - MinervaShadow
 - MathGenius
 - StackQueue
