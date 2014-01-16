@@ -33,7 +33,7 @@ Please submit relevant links as pull requests on this repo.
     <tr>
       <td>Popcorn</td>
       <td>http://shmed-popcorn.jit.su/</td>
-      <td></td>
+      <td>https://github.com/mac-adam-chaieb/popcorn</td>
       <td><a href='https://github.com/mac-adam-chaieb'>@mac-adam-chaieb</a></td>
     </tr>
     <tr>
