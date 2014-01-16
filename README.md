@@ -50,9 +50,13 @@ Please submit relevant links as pull requests on this repo.
     </tr>
     <tr>
       <td>MathGenius</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>http://mathgenius.meteor.com/</td>
+      <td>https://github.com/wetmore/MathGenius</td>
+      <td>
+        <a href='https://github.com/wetmore'>@wetmore</a>
+        <a href='https://github.com/DeepanjanRoy'>@DeepanjanRoy</a>
+        <a href='https://github.com/samijabar'>@samijabar</a>
+      </td>
     </tr>
     <tr>
       <td>StackQ</td>
