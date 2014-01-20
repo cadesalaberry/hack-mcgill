@@ -26,9 +26,12 @@ Please submit relevant links as pull requests on this repo.
     </tr>
     <tr>
       <td>ShowsAlert</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>http://shows-alert.com</td>
+      <td>https://github.com/michaelchum/shows-alert</td>
+      <td>
+       <a href='https://github.com/michaelchum'>@michaelchum</a>
+       <a href='https://github.com/ueg1990'>@ueg1990</a>
+      </td>
     </tr>
     <tr>
       <td>Popcorn</td>
