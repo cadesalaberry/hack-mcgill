@@ -46,10 +46,16 @@ Please submit relevant links as pull requests on this repo.
       <td><a href='https://github.com/dellsystem'>@dellsystem</a></td>
     </tr>
     <tr>
-      <td>MinervaShadow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>minervashadow</td>
+      <td>
+        <a href='https://shadow-c4labz.rhcloud.com'>
+          <img width="200px" height="200px" alt="minervashadow-logo" src="http://bit.ly/minervashadow-logo">
+        </a>
+      </td>
+      <td>https://github.com/cadesalaberry/minervashadow</td>
+      <td>
+       <a href='https://github.com/cadesalaberry'>@cadesalaberry</a>
+      </td>
     </tr>
     <tr>
       <td>MathGenius</td>
